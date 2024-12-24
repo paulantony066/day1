@@ -1,0 +1,147 @@
+
+.popoo{
+    color:black;
+    font-family: cursive;
+    font-size: 30px;
+    margin-top: 250px;
+}
+button{
+    border-radius: 25px;
+    size: 50px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: 0.5s;
+    font-family: cursive;
+    font-size: 15px;
+    border: none;
+    margin: 6px;
+    background-color: white;
+    
+    
+}
+.first{
+    padding: 60px;
+    background-color:rgb(173, 216, 230);
+    border-radius: 20px;
+    margin: 30px;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    justify-content: space-between;
+    transition: 0.5s;
+    
+    
+        /* Adjust as needed */
+        background-image: url('abstrack_backhround_blue__generated.jpg'); /* Path to your image */
+        background-repeat: no-repeat; /* Prevent tiling */
+        background-size: cover; /* Scale image to cover the div */
+        background-position: center; /* Center the image */
+    
+    
+}
+.first:hover{
+    transform: scale(1.05);
+    background-color: white;
+    box-shadow: 0 10px 10px lightskyblue;
+    
+}
+.nav{
+    display: flex;
+    margin: 25px;
+    margin-left: 80px;
+}
+button:hover{
+    background-color: lightskyblue;
+    color: white;
+    transform: scale(1.1);
+    box-shadow: 0 10px 10px lightgray;;
+    
+}
+img{
+    border-radius: 200px;
+    width: 300px;
+    height: 300px;
+}
+body 
+{
+    background-color:lavender;
+    
+}
+.about{
+    border-radius: 25px;
+    size: 50px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: 0.5s;
+    font-family: cursive;
+    font-size: 15px;
+    border: none;
+    margin: 3px;
+    background-color: lavender;
+    color: black;
+}
+.skills{
+    padding:30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:lavender;
+    border-radius: 10px;
+    margin: 10px;
+}
+.skillss{
+    padding:30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color:lavender;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+.skillss:hover{
+    transform: scale(1.1);
+    background-color: black;
+    color: white;
+}
+
+td{
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.back{
+
+    margin: auto;
+    width: 20%;
+
+}
+.contact{
+    padding: 30px;
+    background-color:white;
+    border-radius: 10px;
+    margin: 30px;
+}
+.back2{
+
+    margin: auto;
+    width: 20%;
+
+}
+.curved{
+    background: #ff3c00;
+    color: #fff;
+    text-align: center;
+    border-radius: 20px;
+}
+.curved h1{
+    font-size: 6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.curved p{
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
